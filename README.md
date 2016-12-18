@@ -1,2 +1,4 @@
-# GMMIB
-This script re-enables services disabled after activating monitor mode on an interface.
+# GMMIB (Give Me My internet Back)
+This script is used to re-enable internet access after using airmon-ng
+
+That's really it.
