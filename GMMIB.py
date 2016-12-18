@@ -1,10 +1,11 @@
 #!/usr/share/python
 
-#// 	   Name: GMMiB <Give Me My internet Back>
-#// 	 Author: MibMab
+#// 	     Name: GMMiB <Give Me My internet Back>
+#// 	   Author: MibMab
 #// Description: This script re-enables services disabled after activating monitor mode on an interface.
 #//    Services: NetworkManager, networking, network-manager [Case sensitive]
-#// 	 Github: <Working on>
+#// 	   Github: https://github.com/MibMab/GMMIB
+#//     License: The MIT License (MIT)
 
 #// Hope you like this workaround for enabling WiFi again!
 #// [Note: If you're wondering why the interface variable is named nCard, it's because I called it "Networking Card" before.]
